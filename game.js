@@ -74,7 +74,7 @@ function onClick(e) {
     }
 
     if (isDraw()) {
-      playerDisplay.innerText = "Unentschieden!";
+      playerDisplay.innerText = "Ihr seid so schlecht Unetschieden";
       game = true;
       return;
     }
